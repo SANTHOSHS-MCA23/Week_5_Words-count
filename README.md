@@ -1,6 +1,6 @@
 # Word-Count
 # Description
-In this project, the goal is to identify and print the three most frequently occurring words in a given text. To achieve this, you can utilize JavaScript's built-in methods and properties, including the "split()" method, "filter()" method, and "trim()" method, either with or without regular expressions, as well as the "length" property. Word counting is particularly useful in forms where there is a specific limit on the amount of information that can be entered.
+In this project, the goal is to identify and print the all words in a given text. To achieve this, you can utilize JavaScript's built-in methods and properties, including the "split()" method, "filter()" method, and "trim()" method, either with or without regular expressions, as well as the "length" property. Word counting is particularly useful in forms where there is a specific limit on the amount of information that can be entered.
 
 # How to Run the Code:
 
