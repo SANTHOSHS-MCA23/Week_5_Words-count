@@ -1,13 +1,15 @@
-# Word-Count
-# Description
-In this project, the goal is to identify and print the all words in a given text. To achieve this, you can utilize JavaScript's built-in methods and properties, including the "split()" method, "filter()" method, and "trim()" method, either with or without regular expressions, as well as the "length" property. Word counting is particularly useful in forms where there is a specific limit on the amount of information that can be entered.
+# WORD COUNT
 
-# How to Run the Code:
+# Description:
 
-Step 1: Press "ctrl+shift+ i to open the console.
+This HTML document displays the top 3 most frequently occurring words from a provided paragraph after removing punctuation and converting all text to lowercase.
 
-Step 2: It returns the most three common words.
+# How to run the code:
 
-# Future Improvements
+step1:Save the HTML file with .html extension.
 
-This project can be further enhanced by incorporating spell checkers and improving or expanding additional resources.
+step2:Click the "Go Live" button.A new browser window will open, displaying top 3 words.
+
+# Future Enhancements:
+
+Implementing user interactivity to allow dynamic paragraph input. Adding the ability to customize the number of top words displayed.
